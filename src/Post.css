@@ -1,0 +1,9 @@
+/* Post.css */
+.post-container {
+    border: 1px solid #ccc; /* Define border styles */
+    margin-bottom: 10px; /* Add margin between posts */
+}
+
+.post {
+    padding: 10px; /* Add padding inside the post */
+}
